@@ -1,7 +1,7 @@
 ---
-title: "Portfolio item number 1"
-excerpt: "Short description of portfolio item number 1<br/><img src='/images/500x300.png'>"
+title: "Blind"
+excerpt: "Blind is a action/role-playing game that puts the player in the shoes of a vision impaired person<br/>Oct 2013 – Feb 2014<br/><img src='/images/blind.png'>"
 collection: portfolio
 ---
 
-This is an item in your portfolio. It can be have images or nice text. If you name the file .md, it will be parsed as markdown. If you name the file .html, it will be parsed as HTML. 
+Blind is a action/role-playing game, that puts the player in the shoes of a vision impaired person, developed within the Videogame Design and Programming course at the Politecnico di Milano. Feel free to try the demo here: [https://polimi-game-collective.itch.io/blind](https://polimi-game-collective.itch.io/blind).
