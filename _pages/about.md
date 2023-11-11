@@ -12,7 +12,7 @@ I hold a PhD in Cryptography from [IT University of Copenhagen](https://www.itu.
 
 I hold a Master in Computer Engineering from [Politecnico di Milano](https://www.polimi.it/en/) (PoliMi) and I have previously worked as on research projects at the Department of Mathematics of PoliMi, [Osservatori Digital Innovation](https://www.osservatori.net/) and at the Business IT Department of ITU. 
 
-Beyond academia, I worked for two years at [Moxoff](https://www.moxoff.com/), that is a PoliMi spin-off aimed at transfering results of applied mathematics research (in particular related to mathematical optimization and statistics) to industry, and as a Freelance Software Engineer.
+Beyond that, I worked for two years at [Moxoff](https://www.moxoff.com/), that is a PoliMi spin-off aimed at transfering results of applied mathematics research (in particular related to mathematical optimization and statistics) to industry, and as a Freelance Software Engineer.
 
 My current research interests focus on cryptographic protocols for multiparty computation and blockchain applications.
 <br/><br/><br/>
