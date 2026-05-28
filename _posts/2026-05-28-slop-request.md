@@ -1,7 +1,7 @@
 ---
 title: 'Slop request'
 date: 2026-05-28
-permalink: /posts/2026/05/2026-05-18-slop-request/
+permalink: /posts/2026/05/2026-05-28-slop-request/
 tags:
   - neologism
 ---
